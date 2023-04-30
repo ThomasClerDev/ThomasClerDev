@@ -56,6 +56,7 @@ O que eu não sei, busco entender e trazer a solução.
 
 # Bootcamps e Imersões:
 
+- [x] 🐍  Formação Python Specialist (DIO)
 
 - [x] 👩🏻‍💼  Srum Master (DIO)
 
@@ -64,6 +65,8 @@ O que eu não sei, busco entender e trazer a solução.
 - [x] 🤖  Specialist Internet of Things IoT (DIO)
 
 - [x] 🚀  Specialist Machine Learning (DIO)
+
+- [x] 💻  Desenvolvimento Básico em Java (DIO)
 
 - [ ] ☁️  Estudando Cloud AWS (DIO)
   
