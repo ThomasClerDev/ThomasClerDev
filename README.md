@@ -9,7 +9,7 @@
   
 Um amante de tecnologia buscando uma recolocação no mercado de trabalho nesta área magnífica que é o Desenvolvmento.
 
-Ainda sou um embrião que precisa aprender e principalmente crescer bastante, mas posso afirmar que não me falta força de vontade e entusiasmo.
+Ainda sou um embrião que precisa aprender e principalmente crescer bastante, mas posso afirmar que não me falta força de vontade e entusiasmo. <br>
 Sempre me considerei um autodidata e sei que não precisamos dificultar nada, quando o assunto é aprendizado.
 O que eu não sei, busco entender e trazer a solução.
   
