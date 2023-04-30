@@ -7,7 +7,7 @@
 
 <span align="justify">
   
-Sou um amante de tecnologia buscando uma recolocação no mercado de trabalho nesta área magnífica que é o Desenvolvmento.
+Um amante de tecnologia buscando uma recolocação no mercado de trabalho nesta área magnífica que é o Desenvolvmento.
 
 Ainda sou um embrião que precisa aprender bastante, mas posso afirmar que não me falta força de vontade e entusiasmo.
 Sempre me considerei um autodidata e sei que não precisamos dificultar nada, quando o assunto é aprendizado.
